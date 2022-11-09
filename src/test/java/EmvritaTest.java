@@ -264,9 +264,4 @@ public class EmvritaTest {
         driver.quit();
     }
 
-//        WebElement orangeButtons = driver.findElements(
-//                By.xpath("//div[@id=\"weather-widget\"]/div[2]/div[1]/div[1]/div[2]/div[1]" +
-//                        "/span[contains(text(),'°F')]")
-//        );
-//        int actualResult = orangeButtons.
 }
